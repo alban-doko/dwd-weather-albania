@@ -950,7 +950,6 @@ EW039 ---- EW-Roedeser-Berg      51.22    9.12   385 Hessen
 16627 LGAL ALEXANDROUPOLI        40.51   25.55     7 Decentralized Administration of Macedonia and Thrace
 16632 LGKZ KOZANI                40.18   21.47   634 Dezentralisierte Verwaltung von Epirus und Westmakedonien
 16641 LGKR KORFU                 39.37   19.55     2 Decentralized Administration of Peloponnese, Western Greece and the Ionian
-16642 LGID IOANNINA NATIONAL     39.42   20.49   483 Dezentralisierte Verwaltung von Epirus und Westmakedonien
 16648 LGLR LARISSA               39.38   22.25    74 Decentralized Administration of Thessaly and Central Greece
 16650 LGLM LIMNOS                39.55   25.14     5 Decentralized Administration of the Aegean
 16667 LGMT MYTILINI/AIRPORT      39.04   26.36     3 
