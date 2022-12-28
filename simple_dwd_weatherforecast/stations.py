@@ -838,6 +838,7 @@ EW039 ---- EW-Roedeser-Berg      51.22    9.12   385 Hessen
 13610 ---- KUKES                 42.02   20.25   354 Qark Kukës
 13611 ---- DURRES                41.18   19.27    15 
 13615 LATI TIRANA                41.20   19.47    89 Qark Tirana
+13617 ---- KORCA                 40.60   20.77   893 Qark Korce
 14014 LJLJ LJUBLJANA/BRNIK       46.13   14.29   364 Kranj
 14026 LJMB MARIBOR/SLIVNICA      46.29   15.41   264 Administrative unit Maribor
 14236 ---- ZAGREB/GRIC           45.49   15.58   157 Zagreb
